@@ -1,0 +1,42 @@
+# python files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+#pickle
+*.pkl
+
+# latex temporary files
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.loa
+*.lof
+*.log
+*.lol
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.vrb
+*.toc
+*.xwm
+#
+*~
+
+# minted subdirectory
+_minted-*
+figures/_minted*
+
+#
+.DS_Store
