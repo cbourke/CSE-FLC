@@ -14,9 +14,9 @@
 - Week 9 (10/22): Skip (Fall Break)
   Enjoy the last few days of decent weather while we take a break.
 - Week 11 (11/05): Best Practices I
-  We'll discuss developing syllabi, rubrics, pedagogy, active learning, leading discussions, bias mitigation, and other best practices informed by the experience of current faculty.
+  This meeting was canceled.  We hope to hold the same session at a later date.
 - Week 13 (11/19): Best Practices II
-  We'll continue our discussion on best practices.  
+  This meeting was canceled.  We hope to hold the same session at a later date.
 - Week 15 (12/03): Faculty Teaching Assessment
   We'll discuss how teaching is (or should) be assessed including best practices for self assessment and improvement, how the department assesses teaching, peer observations, annual evaluations and procedures, promotion procedures with respect to teaching.
 - Week 17 (12/17): End-of-semester lunch get-together (alternate time TBD)
