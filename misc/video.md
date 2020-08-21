@@ -44,6 +44,10 @@ stable and efficient non-linear editing (cutting and splicing
 video segments).  It also has a lot of nice animation and audio 
 effects.  
 
+Alternatively, you can use Blender (https://www.blender.org/).  
+Blender is a free and open source 3D animation program, but you 
+can use the video editing functionality it has to do simple 
+non-linear editing (thanks to Vuran for sharing this).
 
 ### Vidgrid
 
@@ -172,3 +176,35 @@ meetings :)  My only recommendation is against using bluetooth
 headphones in general (due to lag) and especially ones with 
 microphones because they like to magically connect/disconnect at
 will.  
+
+
+# More Resources
+
+Dr. Carrick Detweiler has agreed to share his workflow here as well:
+
+## Recording
+I normally record videos from multiple angles. Typically I use:
+
+-my SLR (Canon 80D) focused in a relatively tight shot on my face.
+-my phone recording my hands/desk/computer keyboard. This is useful for doing demos (e.g. showing parts of robots/etc).
+-screen capture my ipad where I use notability (~$10 App that I use to annotate pdfs and take notes) to write lecture materials
+-screen capture my laptop to show other material. If you have a mac press shift-cmd-5 and you can easily record your screen. I find this much easier and faster than using something like vidgrid.
+-sometimes I record my computer webcam as well if I need a wider angle shot of me.
+
+## Audio
+For audio I use my macbook mic. It is one of the new macbooks that claims to have a "studio grade" microphone array. It certainly isn't as good as the setup Chris described, but much better than most laptops or phones. 
+
+## Editing
+To edit I use finalcut pro. This is similar to the Camtasia and Blender process that Chris and Can use. Finalcut certainly has a learning curve, but once you learn it it is relatively fast and can do almost anything you want.
+
+The key feature I use in finalcut pro is the ability to synchronize all the multiple camera angles recorded above (I think the other software probably has this capability too). Basically at the start of recording I just clap my hands a few times and then the software automatically syncs all the angles. Then I can select angles and transition between them. I like having multiple angles as it makes it easier to cut things I mess up (as I just switch to a new angle and cut as needed). 
+
+I will say that for a 15 minute video, it typically takes me 30 minutes of recording. Some of it is that I mess up and do second takes of sections (I am trying to avoid doing second takes unless it is really bad as otherwise it takes forever...). I also tend to cut some dead time in the videos (e.g. when I am writing a long equation I just cut 70% of writing/silence as the students can always pause if they are taking notes). 
+
+To edit that 15 minutes typically takes me almost an hour, although by the end of last semester I did end up getting a bit more proficient. That also depends on how much additional stuff I put in (e.g. adding text with links to more info, etc). Having a relatively fast computer and a bunch of storage space is useful for speed, but older computers work too.
+
+## Publishing
+Finally, I upload the videos to youtube (you can checkout my class last semester https://www.youtube.com/playlist?list=PLc9RvRzedICCFHRyfhaHwAjfvfsJGz9hB). I like youtube as it does a good job of adjusting bandwidth for students based on what they have available. It is also easy to playback faster or slower, which I really appreciate when I watch videos (I don't know if this is possible with vidgrid, but I know just normal videos on canvas don't allow changing playback speed easily). Youtube also automatically generates closed captions like vidgrid to help with accessibility. 
+
+## Thoughts for Classroom Recording
+I haven't fully checked out my room yet. But I am planning on broadcasting live on zoom and recording it for others for async viewing. My plan is to not rely on the classroom technology (at least not yet). I have a webcam with a 90 degree field of view. I plan to setup this on a tripod facing me and the board (I tend to use the board and not power point). I will screen share as needed. At this point I am planning to use airpods as a bluetooth microphone. It seems to be ok with a mask, but I may adjust that at some point. I also plan to ask a student in the classroom to help me monitor the chat to be more responsive to that. 
