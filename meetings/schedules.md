@@ -1,6 +1,10 @@
 
 # CSE Faculty Learning Community Schedules
 
+## Spring 2021 (tentative)
+
+- 02/09: Active Learning
+
 ## Fall 2020
 
 - 09/17: First Year Faculty Experiences  
