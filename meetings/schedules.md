@@ -1,6 +1,13 @@
 
 # CSE Faculty Learning Community Schedules
 
+## Fall 2020
+
+- 09/17: First Year Faculty Experiences  
+  Our second year faculty share their experiences and lessons-learned in their first year as CSE Faculty
+- 10/15: Grade Hopper Presentation
+  Dr. Bonita Sharif shares her experiences from the annual Grace Hopper Celebration conference
+
 ## Fall 2019
 
 - Week 1 (08/27): Teaching Tech I
@@ -19,5 +26,5 @@
   This meeting was canceled.  We hope to hold the same session at a later date.
 - Week 15 (12/03): Faculty Teaching Assessment
   We'll discuss how teaching is (or should) be assessed including best practices for self assessment and improvement, how the department assesses teaching, peer observations, annual evaluations and procedures, promotion procedures with respect to teaching.
-- Week 17 (12/17): End-of-semester lunch get-together (alternate time TBD)
+- Week 17 (12/17): End-of-semester lunch get-together 
 
