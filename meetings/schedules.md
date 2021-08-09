@@ -1,9 +1,9 @@
 
 # CSE Faculty Learning Community Schedules
 
-## Spring 2021 (tentative)
+## Spring 2021 
 
-- 02/09: Active Learning
+- 02/09: Bhuvana Gopal presents Active Learning
 
 ## Fall 2020
 
