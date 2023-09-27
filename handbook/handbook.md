@@ -1,4 +1,4 @@
-# CSE Faculty Learning Community Handbook
+# Faculty Learning Community Handbook
 **[School of Computing](https://computing.unl.edu/)**  
 **[College of Engineering](https://engineering.unl.edu/)**  
 **[University of Nebraska-Lincoln](https://unl.edu)**  
@@ -59,6 +59,12 @@ There are several systems and accounts that you'll have access to:
 Information Technology Services (ITS, <https://its.unl.edu/>) offers a
 wide array of software solutions and services. A comprehensive catalog
 of available services is available here: <https://its.unl.edu/services/>
+which includes:
+
+- OneDrive <https://onedrive.live.com/login/>
+- SharePoint <https://uofnelincoln-my.sharepoint.com/>
+- Self Service <https://services.unl.edu/service/endpoint/self-service>
+
 
 ## Website Hosting
 
@@ -89,6 +95,9 @@ A secure faculty page is maintained by the systems administrators at
 -   Arrange a course (internships, etc.)
 
 -   Access the department course syllabus policy and required text
+
+In addition, several other resources are maintained by the systems
+group; see <https://computing.unl.edu/quick-links/>
 
 ## ECEC
 
@@ -146,6 +155,20 @@ Writing Center also provides services to faculty if you need help with
 your writing or want to collaborate with them on a writing assignment or
 project for your class.
 
+## Mentorship
+
+The Office of the Executive Vice Chancellor maintains several mentorship
+resources:
+
+- How to be a successful mentor (<https://executivevc.unl.edu/tipsheets/how-be-successful-mentor>)
+- How to be a successful mentee (<https://executivevc.unl.edu/tipsheets/how-be-successful-mentee>)
+
+The School of Computing generally identifies a senior faculty member as
+a potential mentor for all new tenure-track faculty.  Speak with the
+Director to identify your mentor (of course you can always switch or
+identify your own mentor).  For teaching track and research faculty,
+speak with the SoC Director for help in identifying a mentor.
+
 ## Advising
 
 TODO
@@ -153,7 +176,10 @@ TODO
 ## Office Supplies, Textbooks, Materials
 
 You can get office supplies as well as textbook copies from the
-department staff.
+department staff.  
+
+The School of Computing mainly resides in Avery Hall and the Schorr
+Center.  Building maps can be found here: <https://computing.unl.edu/maps-avery-hall-and-schorr-center/>
 
 ## GTAs, UTAs, LAs
 
