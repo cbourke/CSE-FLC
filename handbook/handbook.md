@@ -25,7 +25,7 @@ on the secure faculty webpage:
 
 ## System Resources
 
-The CSE Systems Staff maintains a systems-related FAQ for faculty, staff
+The SoC Systems Group maintains a systems-related FAQ for faculty, staff
 and students available here: <https://computing.unl.edu/faq/> most
 systems-related questions and issues can be answered here. If you have
 an issue that is not addressed by this FAQ or have any other
@@ -81,12 +81,12 @@ There are a couple of options for hosting websites as a faculty member.
     templates. Custom URLs can also be requested (example:
     gracehopper.unl.edu).
 
-## CSE Faculty Resources
+## SoC Faculty Resources
 
 A secure faculty page is maintained by the systems administrators at
 <http://cse.unl.edu/faculty/protected>. In this page you can:
 
--   Make room reservations for CSE-controlled rooms in Avery and Schorr
+-   Make room reservations for SoC-controlled rooms in Avery and Schorr
 
 -   Access department documents including course specifications
 
@@ -330,27 +330,8 @@ and the student.
 # Whom to Talk to About\...
 
 Current faculty committee chairs and member lists can be found here:
-<https://cse.unl.edu/faculty-committees>
-
--   Graduate Teaching Assistants (GTAs): Mohammad Hasan (GTA Committee
-    Chair)
-
--   Undergraduate Teaching Assistants (UTAs): Ryan Patrick
-
--   Learning Assistants (LAs): Ashok Samal
-
--   Academic Integrity: Chris Bohn (Academic Integrity & Grading Appeals
-    Committee)
-
--   ABET Accreditation: Chris Bohn
-
--   Internships and Arranged Courses: Ryan Patrick
-
--   Course Scheduling & Logistics: Department Vice Chair
-
--   Office Supplies: Office Staff
-
--   Textbook copies: Office Staff
+<https://computing.unl.edu/faculty-committees/>.  Speak with the chair
+of the relevant committee or faculty/staff group for your questions(s).
 
 # Teaching Evaluation
 
