@@ -3,6 +3,8 @@
 **[College of Engineering](https://engineering.unl.edu/)**  
 **[University of Nebraska-Lincoln](https://unl.edu)**  
 
+# Table of Contents
+
 # Introduction
 
 This document provides a list of policies, procedures and other
@@ -17,7 +19,7 @@ faculty should be familiar with. Both of these documents are available
 on the secure faculty webpage:
 <https://cse.unl.edu/faculty/protected/> which requires a cse login.
 
--   Department Bylaws (revised 2016/10/13)
+-   School of Computing Bylaws (revised 2016/10/13)
 
 -   Faculty Personnel Policies (revised 2016/10/13)
 
@@ -48,13 +50,13 @@ There are several systems and accounts that you'll have access to:
 
 -   MyRed -- <https://myred.nebraska.edu> is typically used for rosters
     and final grades but there is a lot more data that is accessible in
-    this system. Visit with a department secretary for getting
+    this system. Visit with School staff for getting
     additional access.
 
 -   Firefly -- <https://firefly.nebraska.edu/> is used for HR-related
     items including pay check inquiries, tax information, benefits, etc.
 
-## Software & Technology Resources
+## Software, Technology Resources
 
 Information Technology Services (ITS, <https://its.unl.edu/>) offers a
 wide array of software solutions and services. A comprehensive catalog
@@ -88,13 +90,11 @@ A secure faculty page is maintained by the systems administrators at
 
 -   Make room reservations for SoC-controlled rooms in Avery and Schorr
 
--   Access department documents including course specifications
+-   Access SoC documents including course specifications
 
 -   Access the faculty database and update your profile/internal CV
 
 -   Arrange a course (internships, etc.)
-
--   Access the department course syllabus policy and required text
 
 In addition, several other resources are maintained by the systems
 group; see <https://computing.unl.edu/quick-links/>
@@ -175,8 +175,7 @@ TODO
 
 ## Office Supplies, Textbooks, Materials
 
-You can get office supplies as well as textbook copies from the
-department staff.  
+You can get office supplies as well as textbook copies from School staff.  
 
 The School of Computing mainly resides in Avery Hall and the Schorr
 Center.  Building maps can be found here: <https://computing.unl.edu/maps-avery-hall-and-schorr-center/>
@@ -255,23 +254,23 @@ Council (<https://www.unl.edu/facultysenate/teaching-council>)
     <https://engineering.unl.edu/ecec/ecec-fall-teaching-templates/> (as
     well as a Canvas course template and other resources)
 
--   The department has an additional syllabus policy with required text
+-   The SoC has an additional syllabus policy with required text
     to be included:
     <https://cse.unl.edu/faculty/protected/SyllabusText.html> (faculty
     login required)
 
-## Department Academic Integrity Policy
+## SoC Academic Integrity Policy
 
 UNL has a broad Academic Integrity policy as part of the student code of
 conduct (<https://studentconduct.unl.edu/academic-integrity>). The
-department also maintains its own Integrity Policy available here:
+SoC also maintains its own Integrity Policy available here:
 <https://computing.unl.edu/academic-integrity-policy/>.
 
 Though these policies are in place, as an instructor it is up to you to
 define what constitutes a violation of this policy. Your own
 course-specific policies should be well thought out and clearly stated
 in your syllabus. Violations of the integrity policy and actions taken
-against a student must be reported to the department's Academic
+against a student must be reported to the SoC's Academic
 Integrity & Grading Appeals Committee.
 
 ## 15th Week Policy
