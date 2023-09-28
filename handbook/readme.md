@@ -1,9 +1,54 @@
-# Faculty Learning Community Handbook
+Faculty Learning Community Handbook
+===================================
 **[School of Computing](https://computing.unl.edu/)**  
 **[College of Engineering](https://engineering.unl.edu/)**  
 **[University of Nebraska-Lincoln](https://unl.edu)**  
 
-# Table of Contents
+<details>
+
+<summary>Table of Contents</summary>
+
+-   [Faculty Learning Community
+    Handbook](#faculty-learning-community-handbook)
+-   [Table of Contents](#table-of-contents)
+-   [Introduction](#introduction)
+-   [Related Documents](#related-documents)
+-   [Resources](#resources)
+    -   [System Resources](#system-resources)
+    -   [Accounts](#accounts)
+    -   [Software, Technology Resources](#software-technology-resources)
+    -   [Website Hosting](#website-hosting)
+    -   [SoC Faculty Resources](#soc-faculty-resources)
+    -   [ECEC](#ecec)
+    -   [Webhandin](#webhandin)
+    -   [Digital Learning Center (Testing
+        Center)](#digital-learning-center-testing-center)
+    -   [UNL Writing Center](#unl-writing-center)
+    -   [Mentorship](#mentorship)
+    -   [Advising](#advising)
+    -   [Office Supplies, Textbooks,
+        Materials](#office-supplies-textbooks-materials)
+    -   [GTAs, UTAs, LAs](#gtas-utas-las)
+    -   [Communication](#communication)
+    -   [Computing Education Research](#computing-education-research)
+    -   [Professional Development
+        Opportunities](#professional-development-opportunities)
+-   [Policies](#policies)
+    -   [Syllabi](#syllabi)
+    -   [SoC Academic Integrity Policy](#soc-academic-integrity-policy)
+    -   [15th Week Policy](#15th-week-policy)
+    -   [Family Educational Rights and Privacy Act
+        (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+    -   [Counseling and Psychological Services
+        (CAPS)](#counseling-and-psychological-services-caps)
+    -   [Services for Students with Disabilities
+        (SSD)](#services-for-students-with-disabilities-ssd)
+    -   [Greeks, Honors, Scholarships, Student Athletes, ROTC,
+        etc.](#greeks-honors-scholarships-student-athletes-rotc-etc)
+-   [Whom to Talk to About\...](#whom-to-talk-to-about)
+-   [Teaching Evaluation](#teaching-evaluation)
+
+</details>
 
 # Introduction
 
